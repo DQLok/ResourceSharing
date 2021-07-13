@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Context path="/J3.L.P0016">
     <Resource name="P0016" type="javax.sql.DataSource" auth="Container"
-          username="sa" password="12345678" url="jdbc:sqlserver://companylab1.cia1gczg8p9b.us-east-2.rds.amazonaws.com:1433;databaseName=CompanyLab1"
+          username="sa" password="123456" url="jdbc:sqlserver://localhost:1433;databaseName=CompanyLab1"
             driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver"/>
 </Context>
+<!--companylab1.cia1gczg8p9b.us-east-2.rds.amazonaws.com-->
+<!--password="12345678"-->

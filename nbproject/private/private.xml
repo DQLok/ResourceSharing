@@ -20,21 +20,8 @@
     </editor-bookmarks>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/LAB_JavaWeb/J3.L.P0016/web/verify.jsp</file>
-            <file>file:/D:/LAB_JavaWeb/J3.L.P0016/src/java/locdq/controllers/InsertServlet.java</file>
-            <file>file:/D:/LAB_JavaWeb/J3.L.P0016/src/java/locdq/categorys/CategoryDAO.java</file>
             <file>file:/D:/LAB_JavaWeb/J3.L.P0016/src/java/locdq/utils/GoogleUtils.java</file>
-            <file>file:/D:/LAB_JavaWeb/J3.L.P0016/web/profile.jsp</file>
-            <file>file:/D:/LAB_JavaWeb/J3.L.P0016/src/java/locdq/utils/GooglePojo.java</file>
-            <file>file:/D:/LAB_JavaWeb/J3.L.P0016/src/java/locdq/controllers/LogoutServlet.java</file>
-            <file>file:/D:/LAB_JavaWeb/J3.L.P0016/src/java/locdq/utils/VerifyUtils.java</file>
-            <file>file:/D:/LAB_JavaWeb/J3.L.P0016/src/java/locdq/users/UsersDAO.java</file>
-            <file>file:/D:/LAB_JavaWeb/J3.L.P0016/src/java/locdq/utils/MyConstants.java</file>
-            <file>file:/D:/LAB_JavaWeb/J3.L.P0016/src/java/locdq/statusrequests/StatusRequestDAO.java</file>
-            <file>file:/D:/LAB_JavaWeb/J3.L.P0016/src/java/locdq/utils/SendGmail.java</file>
-            <file>file:/D:/LAB_JavaWeb/J3.L.P0016/src/java/locdq/resources/ResourceDAO.java</file>
-            <file>file:/D:/LAB_JavaWeb/J3.L.P0016/src/java/locdq/requests/RequestDAO.java</file>
-            <file>file:/D:/LAB_JavaWeb/J3.L.P0016/src/java/locdq/controllers/VerifyServlet.java</file>
+            <file>file:/D:/LAB_JavaWeb/J3.L.P0016/web/META-INF/context.xml</file>
         </group>
     </open-files>
 </project-private>
